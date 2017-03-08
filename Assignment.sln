@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceFixture", "Insuran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{BDDEFCB3-AED4-42CA-BDB2-F93B34D1E654}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTests", "SeleniumTesting\SeleniumTests.csproj", "{734511B0-8AE7-4848-8337-8338E1C3CB0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BDDEFCB3-AED4-42CA-BDB2-F93B34D1E654}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDDEFCB3-AED4-42CA-BDB2-F93B34D1E654}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDDEFCB3-AED4-42CA-BDB2-F93B34D1E654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734511B0-8AE7-4848-8337-8338E1C3CB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734511B0-8AE7-4848-8337-8338E1C3CB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734511B0-8AE7-4848-8337-8338E1C3CB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734511B0-8AE7-4848-8337-8338E1C3CB0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

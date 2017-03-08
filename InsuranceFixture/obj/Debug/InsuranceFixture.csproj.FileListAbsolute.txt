@@ -95,3 +95,15 @@ C:\Users\claire\Source\Repos\QualityTesting3\Assignment\InsuranceFixture\bin\Deb
 C:\Users\claire\Source\Repos\QualityTesting3\Assignment\InsuranceFixture\obj\Debug\InsuranceFixture.csprojResolveAssemblyReference.cache
 C:\Users\claire\Source\Repos\QualityTesting3\Assignment\InsuranceFixture\obj\Debug\InsuranceFixture.dll
 C:\Users\claire\Source\Repos\QualityTesting3\Assignment\InsuranceFixture\obj\Debug\InsuranceFixture.pdb
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\bin\Debug\InsuranceFixture.dll
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\bin\Debug\InsuranceFixture.pdb
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\bin\Debug\Insurance.dll
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\bin\Debug\Ninject.dll
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\bin\Debug\Pipeline.dll
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\bin\Debug\Insurance.pdb
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\bin\Debug\Ninject.pdb
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\bin\Debug\Ninject.xml
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\bin\Debug\Pipeline.pdb
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\obj\Debug\InsuranceFixture.csprojResolveAssemblyReference.cache
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\obj\Debug\InsuranceFixture.dll
+C:\Users\claire\Source\Repos\assignment\InsuranceFixture\obj\Debug\InsuranceFixture.pdb

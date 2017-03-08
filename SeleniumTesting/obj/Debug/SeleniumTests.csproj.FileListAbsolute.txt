@@ -1,0 +1,16 @@
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\obj\Debug\SeleniumTests.csprojResolveAssemblyReference.cache
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\SeleniumTesting.dll
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\SeleniumTesting.pdb
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\nunit.framework.dll
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\WebDriver.dll
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\WebDriver.Support.dll
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\nunit.framework.xml
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\WebDriver.xml
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\WebDriver.Support.xml
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\obj\Debug\SeleniumTesting.dll
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\obj\Debug\SeleniumTesting.pdb
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\Geckofx-Core.dll
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\Geckofx-Winforms.dll
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\Geckofx-Core.pdb
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\claire\Source\Repos\assignment\SeleniumTesting\bin\Debug\geckodriver.exe
