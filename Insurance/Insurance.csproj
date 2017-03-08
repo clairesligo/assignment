@@ -59,9 +59,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="InsuranceInputs.html" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\WebApplication1\WebApplication1.csproj">
       <Project>{bddefcb3-aed4-42ca-bdb2-f93b34d1e654}</Project>
       <Name>WebApplication1</Name>
