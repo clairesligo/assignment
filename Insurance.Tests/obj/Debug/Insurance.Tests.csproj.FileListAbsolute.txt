@@ -127,3 +127,4 @@ C:\Users\claire\Source\Repos\assignment\Insurance.Tests\bin\Debug\Pipeline.pdb
 C:\Users\claire\Source\Repos\assignment\Insurance.Tests\obj\Debug\Insurance.Tests.csprojResolveAssemblyReference.cache
 C:\Users\claire\Source\Repos\assignment\Insurance.Tests\obj\Debug\Insurance.Tests.dll
 C:\Users\claire\Source\Repos\assignment\Insurance.Tests\obj\Debug\Insurance.Tests.pdb
+C:\Users\claire\Source\Repos\assignment\Insurance.Tests\bin\Debug\geckodriver.exe

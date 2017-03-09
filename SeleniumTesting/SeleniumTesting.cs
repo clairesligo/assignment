@@ -86,8 +86,13 @@ namespace SeleniumTests
         public void SetupTest()
         {
             driver = new FirefoxDriver();
-            baseURL = "http://localhost:59931/WebForm1.aspx";
+            baseURL = "http://localhost:59931";
             verificationErrors = new StringBuilder();
+            //WebDriverWait wait = new WebDriverWait(driver, 10);
+            //wait.Until(ExpectedConditions.InvisibilityOfElementLocated((By.Id("id"))));
+            //driver.Url = "http://somedomain/url_that_delays_loading";
+            //WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+            //IWebElement myDynamicElement = wait.Until<IWebElement>(d => d.FindElement(By.Id("id")));
         }
         [TearDown]
         public void TeardownTest()
@@ -100,11 +105,11 @@ namespace SeleniumTests
         [Test]
         public void TheSeleniumTestingTest()
         {
-            driver.Navigate().GoToUrl(baseURL);
+            driver.Navigate().GoToUrl(baseURL + "/WebForm1.aspx");
             driver.FindElement(By.Id("tbxAge")).Clear();
-            driver.FindElement(By.Id("tbxAge")).SendKeys("66");
+            driver.FindElement(By.Id("tbxAge")).SendKeys("35");
             driver.FindElement(By.Id("tbxGender")).Clear();
-            driver.FindElement(By.Id("tbxGender")).SendKeys("male");
+            driver.FindElement(By.Id("tbxGender")).SendKeys("dog");
             driver.FindElement(By.Id("Button1")).Click();
         }
         private bool IsElementPresent(By by)
