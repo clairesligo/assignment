@@ -107,10 +107,35 @@ namespace SeleniumTests
         {
             driver.Navigate().GoToUrl(baseURL + "/WebForm1.aspx");
             driver.FindElement(By.Id("tbxAge")).Clear();
-            driver.FindElement(By.Id("tbxAge")).SendKeys("35");
+            driver.FindElement(By.Id("tbxAge")).SendKeys("23");
+            driver.FindElement(By.Id("tbxGender")).Clear();
+            driver.FindElement(By.Id("tbxGender")).SendKeys("male");
+            driver.FindElement(By.Id("Button1")).Click();
+            Assert.AreEqual("6", driver.FindElement(By.Id("lblOutput")).Text.ToString());
+            driver.FindElement(By.Id("tbxAge")).Clear();
+            driver.FindElement(By.Id("tbxAge")).SendKeys("33");
             driver.FindElement(By.Id("tbxGender")).Clear();
             driver.FindElement(By.Id("tbxGender")).SendKeys("female");
             driver.FindElement(By.Id("Button1")).Click();
+            Assert.AreEqual("2.5", driver.FindElement(By.Id("lblOutput")).Text);
+            driver.FindElement(By.Id("tbxAge")).Clear();
+            driver.FindElement(By.Id("tbxAge")).SendKeys("45");
+            driver.FindElement(By.Id("tbxGender")).Clear();
+            driver.FindElement(By.Id("tbxGender")).SendKeys("male");
+            driver.FindElement(By.Id("Button1")).Click();
+            Assert.AreEqual("5", driver.FindElement(By.Id("lblOutput")).Text);
+            driver.FindElement(By.Id("tbxAge")).Clear();
+            driver.FindElement(By.Id("tbxAge")).SendKeys("66");
+            driver.FindElement(By.Id("tbxGender")).Clear();
+            driver.FindElement(By.Id("tbxGender")).SendKeys("female");
+            driver.FindElement(By.Id("Button1")).Click();
+            Assert.AreEqual("0.375", driver.FindElement(By.Id("lblOutput")).Text);
+            driver.FindElement(By.Id("tbxAge")).Clear();
+            driver.FindElement(By.Id("tbxAge")).SendKeys("15");
+            driver.FindElement(By.Id("tbxGender")).Clear();
+            driver.FindElement(By.Id("tbxGender")).SendKeys("male");
+            driver.FindElement(By.Id("Button1")).Click();
+            Assert.AreEqual("0", driver.FindElement(By.Id("lblOutput")).Text);
         }
         [Test]
         public void TheSeleniumTestingTest2()
