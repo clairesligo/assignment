@@ -97,9 +97,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SeleniumTesting\SeleniumTests.csproj">
-      <Project>{734511b0-8ae7-4848-8337-8338e1c3cb0d}</Project>
-      <Name>SeleniumTests</Name>
+    <ProjectReference Include="..\Insurance\Insurance.csproj">
+      <Project>{2661b919-aefd-44e6-82b8-af4b80cf4ce4}</Project>
+      <Name>Insurance</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

@@ -120,7 +120,6 @@ C:\Users\claire\Source\Repos\assignment\WebApplication1\bin\WebDriver.dll
 C:\Users\claire\Source\Repos\assignment\WebApplication1\bin\SeleniumTesting.pdb
 C:\Users\claire\Source\Repos\assignment\WebApplication1\bin\nunit.framework.xml
 C:\Users\claire\Source\Repos\assignment\WebApplication1\bin\WebDriver.xml
-C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\geckodriver.exe
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\roslyn\csc.exe
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -139,16 +138,12 @@ C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\WebApplication1.pdb
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\Ninject.dll
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\Pipeline.dll
-C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\SeleniumTesting.dll
-C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\nunit.framework.dll
-C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\WebDriver.dll
-C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\SeleniumTesting.pdb
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\Ninject.pdb
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\Ninject.xml
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\Pipeline.pdb
-C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\nunit.framework.xml
-C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\WebDriver.xml
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\claire\Source\Repos\assignment2\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\Insurance.dll
+C:\Users\claire\Source\Repos\assignment2\WebApplication1\bin\Insurance.pdb

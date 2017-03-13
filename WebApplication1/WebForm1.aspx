@@ -16,7 +16,7 @@
         <br /><br />
         <asp:Button ID="Button1" runat="server" Text="Submit" OnClick="Button1_Click" />
         <br /><br />
-        <asp:Label ID="lblOutput" runat="server" ></asp:Label>
+        <asp:Label ID="lblOutput" runat="server" Text=""></asp:Label>
     </div>
     </form>
 </body>

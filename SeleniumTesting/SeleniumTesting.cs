@@ -109,7 +109,17 @@ namespace SeleniumTests
             driver.FindElement(By.Id("tbxAge")).Clear();
             driver.FindElement(By.Id("tbxAge")).SendKeys("35");
             driver.FindElement(By.Id("tbxGender")).Clear();
-            driver.FindElement(By.Id("tbxGender")).SendKeys("dog");
+            driver.FindElement(By.Id("tbxGender")).SendKeys("female");
+            driver.FindElement(By.Id("Button1")).Click();
+        }
+        [Test]
+        public void TheSeleniumTestingTest2()
+        {
+            driver.Navigate().GoToUrl(baseURL + "/WebForm1.aspx");
+            driver.FindElement(By.Id("tbxAge")).Clear();
+            driver.FindElement(By.Id("tbxAge")).SendKeys("35");
+            driver.FindElement(By.Id("tbxGender")).Clear();
+            driver.FindElement(By.Id("tbxGender")).SendKeys("male");
             driver.FindElement(By.Id("Button1")).Click();
         }
         private bool IsElementPresent(By by)
